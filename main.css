@@ -1,0 +1,50 @@
+body
+{
+	background: #ADD8E6;
+}
+
+.pictures
+{
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	z-index: -1;
+}
+
+#selfie
+{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	position: absolute;
+	left: 270px;
+	width:100%;
+	color: black;
+}
+
+#women
+{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	position: absolute;
+	left: 930px;
+	width:100%;
+	color: black;
+}
+
+#friends
+{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	position: absolute;
+	left: 275px;
+	top: 450px;
+	width: 100%;
+	color: black;
+}
+
+#hikes
+{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	position: absolute;
+	left: 930px;
+	top: 450px;
+	width: 100%;
+	color: black;
+}
